@@ -1,0 +1,24 @@
+.wrapper {
+    padding: 0 0 100px;
+    background-image: url(bg.png);
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+    min-height: 100%
+}
+.wrapper .logo img {
+    max-width: 50%;
+}
+.wrapper input {
+    background-color: #f6eded;
+    border-color: rgb(250, 226, 226);
+    color:rgb(250, 226, 226);
+}
+.wrapper .submit_btn {
+    padding: 15px;
+    font-weight: 500;
+}
+.wrapper .login_with img {
+    max-width: 25px;
+}
